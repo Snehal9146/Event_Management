@@ -1,4 +1,4 @@
-
+![Screenshot (407)](https://github.com/user-attachments/assets/509138d8-ed2f-447b-b508-2e17fdfbebae)
 # Event Management System
 
 ## Project Description
@@ -89,5 +89,17 @@ cd event_management_system
    ```bash
    mvn spring-boot:run
    ```
+
+![Screenshot (405)](https://github.com/user-attachments/assets/2963be04-edda-4b8a-9330-0f7c1e27cef0)
+
+
+![Screenshot (404)](https://github.com/user-attachments/assets/b7761d3a-fd65-43c2-a2a7-05d2f26959f0)
+
+
+![Screenshot (406)](https://github.com/user-attachments/assets/f676150b-88e2-40fc-9ffa-aa4851f660e8)
+
+
+![Screenshot (407)](https://github.com/user-attachments/assets/c468ecef-8074-4fc6-bc75-90c5d9f6d77c)
+
 
 
