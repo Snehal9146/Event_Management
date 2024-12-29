@@ -1,4 +1,4 @@
-![Screenshot (407)](https://github.com/user-attachments/assets/509138d8-ed2f-447b-b508-2e17fdfbebae)
+
 # Event Management System
 
 ## Project Description
